@@ -5,7 +5,7 @@ I am Kenneth and an <a href="https://aws.amazon.com/developer/community/communit
 
 I am also AWS Certified x3 (Architect associate + professional) and the Network speciality and the security speciality on the way.
 
-I have a <a href="https://www.cloudresearch.tech"> blog </a> where I write articles related mainly to AWS technologies..I am also writing a book on AWS networking technologies covering VPC, Route 53, Cloudfront, Network firewall, Direct Connect, VPC lattice, Transit Gatewayt, AWS Cloudwan, AWS WAF and Shield .....
+I have a <a href="https://www.cloudresearch.tech"> blog </a> where I write articles related mainly to AWS technologies..I am also writing a book on AWS networking technologies covering VPC, Route 53, Cloudfront, Network firewall, Direct Connect, VPC lattice, Transit Gateway, AWS Cloudwan, AWS WAF and Shield .....
 
 
 <b><h2>Some useful information....</b></h2>
