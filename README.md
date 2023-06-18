@@ -21,7 +21,7 @@ I have a <a href="https://www.cloudresearch.tech"> blog </a> where I write artic
 
 * Ensure you have <a href="https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html"> Billing alerts</a> set to avoid having surprise
 
-* If you are using AWS networking, make sure you have a good IP Plan and a good BGP assignment plan
+* If you are using AWS networking, make sure you have a good IP Plan and a good BGP assignment plan and look into IPv6 as we will soon need it :)
 
 
 
