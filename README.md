@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Kenneth and an <a href="https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Kenneth%2BAttard&cb-cards.q_operator=AND"> AWS Community Builder</a> focusing on Networking Content & Delivery. I also work as an Enterprise Architect specializing on Connecitvity, Cloud Security/Governance and Infrastructure.
+I am Kenneth and an <a href="https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Kenneth%2BAttard&cb-cards.q_operator=AND"> AWS Community Builder</a> focusing on Networking Content & Delivery. I also work as an Enterprise Architect specializing on Connecitvity, Cloud Architecture/Security/Governance (mainly AWS) and Infrastructure.
 
 I am also AWS Certified x3 (Architect associate + professional) and the Network speciality and the security speciality on the way.
 
