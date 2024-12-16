@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Kenneth and an <a href="https://aws.amazon.com/developer/community/heroes/kenneth-attard/> AWS Community Hero and ex AWS Community Builder</a> focusing on Networking Content & Delivery. I also work as an Enterprise Architect specializing in Connectivity, Cloud Architecture/Security/Governance (mainly AWS) and Infrastructure.
+I am Kenneth and an <a href="https://aws.amazon.com/developer/community/heroes/kenneth-attard/"> AWS Community Hero and ex AWS Community Builder</a> focusing on Networking Content & Delivery. I also work as an Enterprise Architect specializing in Connectivity, Cloud Architecture/Security/Governance (mainly AWS) and Infrastructure.
 
 I am also an AWS Certified x3 (architect associate + professional), and I have a network speciality and a security speciality on the way.
 
